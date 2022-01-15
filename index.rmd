@@ -74,7 +74,7 @@ ggplot(data = interviews_plotting,
 
 ## Awsome Workshop
 
-![Robin & her love for ggplot](/Users/essiahamouda/Desktop/figs/worshop.png)
+![Robin & her love for ggplot](./figs/worshop.png)
 
 
 
